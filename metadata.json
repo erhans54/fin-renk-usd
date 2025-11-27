@@ -1,0 +1,5 @@
+{
+  "name": "finato renkli",
+  "description": "A comprehensive personal finance tracking application supporting multiple currencies (TRY, USD, EUR, Gold) with real-time exchange rate conversions.",
+  "requestFramePermissions": []
+}
